@@ -1,2 +1,2 @@
 # Solitaire-Lit
-APCS A Project
+Our APCS A project; we created Solitaire
